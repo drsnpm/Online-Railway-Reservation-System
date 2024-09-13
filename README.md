@@ -1,0 +1,1 @@
+User developed an online railway reservation system using PHP and MySQL for backend and database management, incorporating key functionalities like user registration, ticket booking, and seat availability checks. They also designed a user-friendly interface to streamline the reservation process and deliver real-time updates on seat availability.
