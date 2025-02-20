@@ -75,21 +75,23 @@ Make sure you have the following software installed:
 
 ## Snapshots
 ### Home Page
-![Image](https://github.com/user-attachments/assets/2eecd888-37a0-4b5d-9189-6959df3435ff)
+![Image](https://github.com/user-attachments/assets/492b1d0e-1785-4501-8dfd-3dd0f5ac8651)
+### Passenger Register Page
+![Image](https://github.com/user-attachments/assets/66427515-08ba-4430-a386-3d5263d72a50)
 ### Passenger Login Page
-![Image](https://github.com/user-attachments/assets/5dc3b09e-23e4-41e2-9f2e-198200ccdf36)
-### Passenger Booking Page
-![Image](https://github.com/user-attachments/assets/8890ad02-ee3f-46a7-912a-bd7c3c10f280)
+![Image](https://github.com/user-attachments/assets/143aaec8-37f3-44b9-9e0e-59b0e9135fdb)
+### Passenger Home Page
+![Image](https://github.com/user-attachments/assets/3f633538-a5da-45b4-887f-8fb1316c3491)
 ### Passenger Payment Page
-![Image](https://github.com/user-attachments/assets/7139df1f-8199-4afe-aed8-5fa959d11ebb)
+![Image](https://github.com/user-attachments/assets/b6c60f8d-29da-4ebe-95ef-a05e3a8dac73)
 ### Passenger Booking History Page
-![Image](https://github.com/user-attachments/assets/32b846be-0727-4ed3-94c5-57f21c6e23b8)
+![Image](https://github.com/user-attachments/assets/4e77032d-44a1-4d8d-982f-9b66e1836142)
 ### Passenger Ticket Details
-![Image](https://github.com/user-attachments/assets/7cef648f-3c41-4275-ae6f-ec611632cb66)
+![Image](https://github.com/user-attachments/assets/75405f36-6ee0-417b-a26e-0addfd139307)
 ### Passenger Profile Details
-![Image](https://github.com/user-attachments/assets/3ee542f8-2656-40f9-a202-4e5882a4bc55)
+![Image](https://github.com/user-attachments/assets/304b0549-a82a-4439-ae2f-9cfd643ecf1d)
 ### Passenger Profile Update
-![Image](https://github.com/user-attachments/assets/48c05d04-dc06-46ac-b752-4afbebc96a03)
+![Image](https://github.com/user-attachments/assets/97bee3ab-29ec-471d-a730-9490f00d94f3)
 ### Admin Dashboard
 ![Image](https://github.com/user-attachments/assets/de4366b1-9aab-4a51-b800-607571e3543e)
 ### Admin Add Train
