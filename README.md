@@ -101,8 +101,6 @@ Make sure you have the following software installed:
 ![Image](https://github.com/user-attachments/assets/787cbd10-d145-479b-9f77-28b9d276a0b1)
 ### Admin Manage Train
 ![Image](https://github.com/user-attachments/assets/fd6d94bb-9a16-4462-be50-e248bea30e22)
-### Admin Update Train
-![Image](https://github.com/user-attachments/assets/9aeecfe7-4930-44fd-8bbc-152d51edfe3c)
 ### Admin Add Passenger
 ![Image](https://github.com/user-attachments/assets/283936a1-6fa7-450c-b774-c7a536e5af65)
 ### Admin Manage Passenger
