@@ -92,25 +92,26 @@ Make sure you have the following software installed:
 ![Image](https://github.com/user-attachments/assets/304b0549-a82a-4439-ae2f-9cfd643ecf1d)
 ### Passenger Profile Update
 ![Image](https://github.com/user-attachments/assets/97bee3ab-29ec-471d-a730-9490f00d94f3)
+
+### Admin Login Page
+![Image](https://github.com/user-attachments/assets/b41c9b85-31a6-4719-a973-65d358faafa8)
 ### Admin Dashboard
-![Image](https://github.com/user-attachments/assets/de4366b1-9aab-4a51-b800-607571e3543e)
+![Image](https://github.com/user-attachments/assets/3f76d2ba-1006-488d-9f1b-619d8125e63f)
 ### Admin Add Train
-![Image](https://github.com/user-attachments/assets/68e2fd79-914a-484f-a787-1d3abcbdc44a)
+![Image](https://github.com/user-attachments/assets/787cbd10-d145-479b-9f77-28b9d276a0b1)
 ### Admin Manage Train
-![Image](https://github.com/user-attachments/assets/6b09abc1-5643-40f8-b658-a099194e1c56)
+![Image](https://github.com/user-attachments/assets/fd6d94bb-9a16-4462-be50-e248bea30e22)
 ### Admin Update Train
 ![Image](https://github.com/user-attachments/assets/9aeecfe7-4930-44fd-8bbc-152d51edfe3c)
 ### Admin Add Passenger
-![Image](https://github.com/user-attachments/assets/48f05bde-5e88-4364-8bb2-2f655aa0416d)
+![Image](https://github.com/user-attachments/assets/283936a1-6fa7-450c-b774-c7a536e5af65)
 ### Admin Manage Passenger
-![Image](https://github.com/user-attachments/assets/a05c002f-a067-4b5f-9152-776c13ccaa9c)
-### Admin Update Passenger
-![Image](https://github.com/user-attachments/assets/afb80d11-034a-4d2d-bffa-b648cf48290d)
+![Image](https://github.com/user-attachments/assets/d420a359-34a0-4204-9ac9-7b9ea8c59413)
 ### Admin Manage Tickets
-![Image](https://github.com/user-attachments/assets/1af022a6-bf7d-4b8c-8197-2aebe626bad7)
+![Image](https://github.com/user-attachments/assets/c77ee591-12ef-4ab9-a62b-4843f201cb75)
 ### Admin View Approved Tickets
-![Image](https://github.com/user-attachments/assets/cfaa377b-7087-420a-a668-ecbe16dcd7a3)
+![Image](https://github.com/user-attachments/assets/16d62e8c-2a03-4b1a-8001-e3366b8d33c3)
 ### Admin View Pending Tickets
-![Image](https://github.com/user-attachments/assets/2609943f-0729-4c57-b05b-2e5f68bd01f8)
+![Image](https://github.com/user-attachments/assets/60757ac2-8dd7-446f-a9f8-4d3a972b8e3a)
 ### Admin Profile Details
-![Image](https://github.com/user-attachments/assets/15e6600b-de4c-439c-a734-902e3eda0120)
+![Image](https://github.com/user-attachments/assets/7e7d7fca-74e1-46a2-9993-f4555035e92d)
