@@ -64,7 +64,7 @@ Make sure you have the following software installed:
 1. **Admin Login** - Secure authentication process for admin access.
 2. **Manage Passengers** - Admin can add, update or delete passenger profiles.
 3. **Manage Tickets** - Admin can view, issue and delete tickets based on reservations.
-4. **Approve or Reject Tickets** - Admin can pprove or **reject pending ticket requests.
+4. **Approve or Reject Tickets** - Admin can pprove or reject pending ticket requests.
 5. **View Reservations** - Admin can view all reservations made by passengers.
 6. **Fare Management** – Set and update ticket prices based on demand, season, or policies.
 7. **Manage Train Schedules** - Admin can add new trains or remove canceled services from the system.
