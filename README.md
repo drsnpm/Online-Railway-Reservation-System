@@ -51,7 +51,7 @@ Make sure you have the following software installed:
 ## Features for Passenger
 1. **Passenger Registration** - New passengers can register using their credentials. Email verification for added security.
 2. **Passenger Login & Authentication** - Secure login system with username and password for authenticated access.  
-3. **Profile Management** - Passengers can view and update their personal details, including contact information and travel preferences.  
+3. **Profile Management** - Passengers can view and update their personal details. 
 4. **Change Password** - Secure password change option with old password verification for added security.  
 5. **Search Available Trains** - Passengers can search for available trains by departure station, arrival station, and departure date.
 6. **Book Train Ticket** - Passengers can securely book tickets by selecting available trains, travel date, and seats.
