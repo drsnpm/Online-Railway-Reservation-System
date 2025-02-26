@@ -49,15 +49,15 @@ Make sure you have the following software installed:
 6. Open the application in your browser and start using the patient, doctor, and admin modules!
 
 ## Features for Passenger
-1. **Passenger Registration** - New passengers can register using their credentials. Email verification for added security.
+1. **Passenger Registration** - New passengers can register with credentials and email verification for security.
 2. **Passenger Login & Authentication** - Secure login system with username and password for authenticated access.  
 3. **Profile Management** - Passengers can view and update their personal details. 
 4. **Change Password** - Secure password change option with old password verification for added security.  
-5. **Search Available Trains** - Passengers can search for available trains by departure station, arrival station, and departure date.
+5. **Search Available Trains** - Passengers can search trains by departure station, arrival station, and date.
 6. **Book Train Ticket** - Passengers can securely book tickets by selecting available trains, travel date, and seats.
 7. **View Booking Details** - Passengers can view their ticket details, including train information, date, time.
 8. **Cancel Booking** - Passengers can cancel their booking within the allowed timeframe.
-9. **Fake Payment Simulation** - Passengers can simulate a payment for the booking process, including a fake transaction confirmation.
+9. **Fake Payment Simulation** - Passengers can simulate a payment, including a fake transaction confirmation.
 10. **Logout Securely** - Secure logout option to prevent unauthorized access to the passenger's account after use.
 
 ## Features for Admin
